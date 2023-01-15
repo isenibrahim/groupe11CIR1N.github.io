@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 150px;
+}
+
+header{
+    background-color: #ce1b1b;
+    font-size: 20px;
+    color: black;
+    font-family: cursive;
+    display: flex;
+    position: fixed;
+    width: 1550px;
+    margin-top: 0px;
+    top: 0px; z-index: auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+header a{
+    color: black;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+header img{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+header ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+p{
+    font-size: x-large;
+}
